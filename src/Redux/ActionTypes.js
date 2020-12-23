@@ -1,0 +1,2 @@
+export const REQUEST_SERVER_DATA = 'REQUEST_SERVER_DATA'
+export const REQUEST_SERVER_DATA_success = 'REQUEST_SERVER_DATA_success'
